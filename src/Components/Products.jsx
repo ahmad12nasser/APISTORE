@@ -1,8 +1,10 @@
 import React from 'react'
-
+import '../App.css';
 const Products = () => {
   return (
-    <div>Product</div>
+    <div className='products-container'>
+      products 
+    </div>
   )
 }
 

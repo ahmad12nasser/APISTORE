@@ -1,8 +1,10 @@
-import React from 'react'
-
+import React from 'react';
+import '../App.css';
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <div className='footer'>
+      <p>Shopping App 2020&copy;</p>
+    </div>
   )
 }
 

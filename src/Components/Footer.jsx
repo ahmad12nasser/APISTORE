@@ -1,11 +1,11 @@
-import React from 'react';
-import '../App.css';
+import React from "react";
+import "../App.css";
 const Footer = () => {
   return (
-    <div className='footer'>
-      <p>Shopping App 2020&copy;</p>
+    <div className="footer">
+      <p>&copy; 2023 Company Name</p>
     </div>
-  )
-}
+  );
+};
 
 export default Footer;
